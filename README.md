@@ -13,7 +13,7 @@ A terminal chatbot for PUCIT students that answers GPA/CGPA questions. The LLM d
 
 ## Links
 - MCP server code: https://github.com/anus-toqeer/my-mcp-server
-- Hosted server (Prefect Horizon, private, needs an API key): `https://YOUR-SERVER-NAME.fastmcp.app/mcp`
+- Hosted server (Prefect Horizon, private, needs an API key): `https://cgpa-calc.fastmcp.app/mcp`
 
 ## Setup
 ```bash
